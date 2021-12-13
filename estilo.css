@@ -3,6 +3,9 @@ p, li {
     font-size: 14px
 }
 
+main {
+    margin-top: 120px;
+}
 
 #logo {
     width: 100px;
@@ -24,3 +27,8 @@ hearder, .navbar {
 
 #navbar-links a:hover {
     color: #65daf9;
+}
+
+#sobre {
+    text-align: center;
+}
